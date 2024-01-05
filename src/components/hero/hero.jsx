@@ -1,3 +1,5 @@
+// This is Hero Section
+
 import "./hero.scss";
 import { motion } from "framer-motion";
 
