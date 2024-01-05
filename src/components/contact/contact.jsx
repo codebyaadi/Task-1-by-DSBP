@@ -48,6 +48,7 @@ const Contact = () => {
 
   return (
     <motion.div
+      id="Contact"
       ref={ref}
       className="contact"
       variants={variants}
